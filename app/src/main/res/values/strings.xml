@@ -5,4 +5,5 @@
     <string name="enter_your_name">Enter Your Name</string>
     <string name="start">Start</string>
     <string name="name">Name</string>
+    <string name="which_country_does_this_flag_belongs_to">Which Country does this Flag belongs to?</string>
 </resources>
