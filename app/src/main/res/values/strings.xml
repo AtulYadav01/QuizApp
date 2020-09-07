@@ -10,4 +10,6 @@
     <string name="image">image</string>
     <string name="hey_congratulations">Hey, Congratulations</string>
     <string name="finish">FINISH</string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
 </resources>
