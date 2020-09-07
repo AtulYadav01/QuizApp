@@ -6,4 +6,8 @@
     <string name="start">Start</string>
     <string name="name">Name</string>
     <string name="which_country_does_this_flag_belongs_to">Which Country does this Flag belongs to?</string>
+    <string name="result">Result</string>
+    <string name="image">image</string>
+    <string name="hey_congratulations">Hey, Congratulations</string>
+    <string name="finish">FINISH</string>
 </resources>
