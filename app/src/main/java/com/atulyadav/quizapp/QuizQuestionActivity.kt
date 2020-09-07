@@ -94,11 +94,13 @@ class QuizQuestionActivity : AppCompatActivity(), View.OnClickListener {
                 selectedOptionView(tv_option_four, 4)
             }
             R.id.btn_submit -> {
-                if (mSelectedPosition == 0) {
-                    mSelectedPosition++
+                if (mSelectedPosition <= 0) {
+                    mCurrentPosition++
+
 
                     when {
                         mCurrentPosition <= mQuestionsList!!.size -> {
+                            mSelectedPosition++
                             setQuestion()
                         }
                         else -> {
