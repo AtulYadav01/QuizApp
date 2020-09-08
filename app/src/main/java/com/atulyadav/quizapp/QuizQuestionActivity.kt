@@ -1,6 +1,7 @@
 package com.atulyadav.quizapp
 
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.graphics.Color
 import android.graphics.Typeface
@@ -37,6 +38,7 @@ class QuizQuestionActivity : AppCompatActivity(), View.OnClickListener {
 
     }
 
+    @SuppressLint("SetTextI18n")
     private fun setQuestion() {
 
         val question = mQuestionsList!![mCurrentPosition - 1]
@@ -44,9 +46,9 @@ class QuizQuestionActivity : AppCompatActivity(), View.OnClickListener {
         defaultOptionsView()
 
         if (mCurrentPosition == mQuestionsList!!.size) {
-            btn_submit.text = "FINISH"
+            btn_submit.text = getString(R.string.finish)
         } else {
-            btn_submit.text = "SUBMIT"
+            btn_submit.text = getString(R.string.submit1)
         }
 
         progressbar.progress = mCurrentPosition
@@ -123,9 +125,9 @@ class QuizQuestionActivity : AppCompatActivity(), View.OnClickListener {
                     answerView(question.correctAnswer, R.drawable.correct_option_border_bg)
 
                     if (mCurrentPosition == mQuestionsList!!.size) {
-                        btn_submit.text = "FINISH"
+                        btn_submit.text = getString(R.string.fin)
                     } else {
-                        btn_submit.text = "Go to Next Question"
+                        btn_submit.text = getString(R.string.nextquestion)
                     }
                     mSelectedPosition = 0
                 }

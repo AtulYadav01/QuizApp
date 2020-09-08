@@ -9,7 +9,11 @@
     <string name="result">Result</string>
     <string name="image">image</string>
     <string name="hey_congratulations">Hey, Congratulations</string>
-    <string name="finish">FINISH</string>
+    <string name="finish2">FINISH</string>
     <string name="submit">Submit</string>
     <string name="todo">TODO</string>
+    <string name="finish">FINISH</string>
+    <string name="submit1">SUBMIT</string>
+    <string name="fin">FINISH</string>
+    <string name="nextquestion">Go to Next Question</string>
 </resources>
