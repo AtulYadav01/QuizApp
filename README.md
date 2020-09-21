@@ -19,7 +19,7 @@ There is only one prerequisite, i.e. you must have an Android Phone running on A
 
 2. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/AtulYadav01/QuizApp.git
 ```
 3. Open it in Android Studio
 
