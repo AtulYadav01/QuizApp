@@ -28,12 +28,6 @@ git clone https://github.com/your_username_/Project-Name.git
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
@@ -61,9 +55,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [the.atulyadav](https://twitter.com/the.atulyadav)
+[<img align="left" alt="https://atulyadav01.github.io/atul-yadav-portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="the_atulyadav | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="atul-yadav01 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="the.atulyadav | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-Project Link: [https://github.com/AtulYadav01/QuizApp](https://github.com/AtulYadav01/QuizApp)
+
+[website]: https://atulyadav01.github.io/atul-yadav-portfolio/
+[twitter]: https://twitter.com/the_atulyadav
+[instagram]: https://instagram.com/the.atulyadav
+[linkedin]: https://linkedin.com/in/atul-yadav01
 
 
 
