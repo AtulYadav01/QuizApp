@@ -1,7 +1,8 @@
 
 <img src="app/QuizApp_HomePage.jpg" width="400">
-![First Activity](/app/QuizApp_FirstActivity.jpg)
-![Result Screen](/app/QuizApp_ResultScreen.jpg)
+<img src="app/QuizApp_FirstActivity.jpg" width="400">
+<img src="app/QuizApp_ResultScreen.jpg" width="400">
+
 
 
 
