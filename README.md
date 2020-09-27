@@ -1,3 +1,12 @@
+
+![Home Page](/app/QuizApp_HomePage.jpg)
+![First Activity](/app/QuizApp_FirstActivity.jpg)
+![Result Screen](/app/QuizApp_ResultScreen.jpg)
+
+
+
+
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This is a Quiz App made from Kotlin, this app contains 10 questions where you have to recognise the flag of the country.
