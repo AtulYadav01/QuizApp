@@ -1,7 +1,7 @@
 
-<img src="app/QuizApp_HomePage.jpg" width="200">
-<img src="app/QuizApp_FirstActivity.jpg" width="200">
-<img src="app/QuizApp_ResultScreen.jpg" width="200">
+<img src="app/QuizApp_HomePage.jpg" width="200"> <img src="app/QuizApp_FirstActivity.jpg" width="200"> <img src="app/QuizApp_ResultScreen.jpg" width="200">
+
+
 
 
 
